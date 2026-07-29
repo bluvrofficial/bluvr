@@ -1,0 +1,7 @@
+body{margin:0;font-family:'Space Grotesk',sans-serif;background:#fff;color:#111}
+.hero{min-height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:24px}
+.circle{position:absolute;width:420px;height:420px;border-radius:50%;background:#0052ff15;filter:blur(40px)}
+.mascot{width:240px;z-index:1;animation:f 4s ease-in-out infinite}
+h1{font-size:72px;margin:18px 0 8px}h2{color:#0052FF}p{color:#666}
+a{margin-top:24px;background:#0052FF;color:#fff;padding:14px 28px;border-radius:999px;text-decoration:none;font-weight:700}
+footer{text-align:center;padding:24px;color:#777}@keyframes f{50%{transform:translateY(-10px)}}
