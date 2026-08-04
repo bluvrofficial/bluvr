@@ -1,58 +1,48 @@
-# 🔵 BLUVR
+# BLUVR
 
-> The Blue Never Stops Building.
-
-BLUVR is a community-first identity built for the Base ecosystem.
-
-We believe blue represents builders, creators, developers and everyone pushing the ecosystem forward.
+The Blue Room for builders on Base.
 
 ---
 
-## 🌐 Links
+## Why BLUVR?
 
-- Website: https://bluvrofficial.github.io/bluvr/
-- X: https://x.com/BLUVRxyz
+Internet has timelines.
+Crypto has charts.
 
----
+Builders need a room.
 
-## Vision
-
-BLUVR exists to celebrate builders.
-
-Not speculation.
-
-Not hype.
-
-Just people building every day.
+BLUVR exists to create that room.
 
 ---
 
-## Mission
+## What We Build
 
-• Build together.
+💙 Open-source projects
 
-• Share openly.
+💙 Builder experiences
 
-• Support Base builders.
+💙 Creative experiments
 
-• Grow the ecosystem.
-
----
-
-## Status
-
-✅ Website
-
-✅ GitHub
-
-✅ Brand Identity
-
-🚧 Community
-
-🚧 Ecosystem
-
-🚧 Builders Network
+💙 Community tools
 
 ---
 
-Made with 💙 on Base.
+## Philosophy
+
+Begin.
+
+Build.
+
+Share.
+
+Repeat.
+
+---
+
+## Join the Blue Room
+
+Website
+
+X
+
+GitHub
